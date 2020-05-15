@@ -1,2 +1,2 @@
-# pr0-25
-this is the class 25 project
+# p5.play-boilerplate
+Boiler plate for p5.play
